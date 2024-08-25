@@ -5,7 +5,7 @@ This NYC food and in-theater movie guide was made in NYU's Project for Programmi
 ### Our Goal
 Our project aims to create a personalized recommendation system for individuals or groups of users to find new and exciting restaurants to explore and in-theater movies to watch in New York City. 
 
-This project has a platform for restaurant recommendations where users can build food preference profiles that record their preferences for different cuisines. Based on their individual preferences, our project will provide weekly recommendations across several food establishment categories. We also created a system that can input multiple user preference profiles to generate recommendations suitable for everyone in groups of two or more individuals. This feature will help plan dates or friend group hangouts where everyone has different tastes but wants to get food together. 
+This project has a platform for restaurant recommendations where users can build food preference profiles that record their preferences for different cuisines. Our project will provide weekly recommendations across several food establishment categories based on their individual preferences. We also created a system that can input multiple user preference profiles to generate recommendations suitable for everyone in groups of two or more individuals. This feature will help plan dates or friend group hangouts where everyone has different tastes but wants to get food together. 
 
 For the in-theater movie recommendation, we have a movie recommender system designed for movie enthusiasts who want to find movies that match their preferences. To offer personalized recommendations, the system uses natural language processing to analyze users' preferred genres and past movie experiences. It uses the Gemini AI model and our movie database to identify relevant current in-theater movies matching user preferences. Users can input their favorite genres or movies using the simple web interface, and the system will generate a comprehensive list of current movies in New York City theaters. The list includes summaries and links to make it easier for users to choose, aiming to help users find movies they like and enhance their movie-watching experience.
 
@@ -35,8 +35,7 @@ We approached the recommendation system by breaking the process down into severa
 7. Analyzing preferences of multiple user profiles (various sets of input data) to offer ideas for groups looking for places to eat together through clustering and dendrograms
 8. Run the Machine Learning Model
 9. Recommend in-theater movies using Gemini AI with the resulting markdown table and user inputs
-10. As a user interacts with the system and provides feedback on the system’s recommendations, it will learn and tailor results to align more with the user’s preferences
-11. As time passes, the activity database will continue growing and updating with time-limited or currently trendy restaurants to recommend to users
+10. When a user interacts with the system and provides feedback on its recommendations, it will learn and tailor results to align more with the user’s preferences. As time passes, the activity database will continue growing and updating with time-limited or currently trendy restaurants to recommend to users
 
 ## Group Member Contacts
 Since not all members have a GitHub account, our group members' first names and contacts are here.
