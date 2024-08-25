@@ -38,13 +38,8 @@ We approached the recommendation system by breaking the process down into severa
 
 ## Group Member Contacts
 Since not all members have a GitHub account, our group members' first names and contacts are here.
-
-Sherry: mx2046@stern.nyu.edu
-
-Alice: jac10027@stern.nyu.edu
-
-Casey: cgr9215@stern.nyu.edu
-
-Jessica: jro323@stern.nyu.edu
-
-Tanisha: tr2095@stern.nyu.edu
++ Sherry: mx2046@stern.nyu.edu
++ Alice: jac10027@stern.nyu.edu
++ Casey: cgr9215@stern.nyu.edu
++ Jessica: jro323@stern.nyu.edu
++ Tanisha: tr2095@stern.nyu.edu
