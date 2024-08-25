@@ -33,8 +33,10 @@ We approached the recommendation system by breaking the process down into severa
 5. Building user profile preferences based on inputs
 6. Leveraging the extensive and up-to-date database and user preference data to suggest personalized recommendations
 7. Analyzing preferences of multiple user profiles (various sets of input data) to offer ideas for groups looking for places to eat together through clustering and dendrograms
-8. As a user interacts with the system and provides feedback on the system’s recommendations, it will learn and tailor results to align more with the user’s preferences
-9. As time passes, the activity database will continue growing and updating with time-limited or currently trendy restaurants to recommend to users
+8. Run the Machine Learning Model
+9. Recommend in-theater movies using Gemini AI with the resulting markdown table and user inputs
+10. As a user interacts with the system and provides feedback on the system’s recommendations, it will learn and tailor results to align more with the user’s preferences
+11. As time passes, the activity database will continue growing and updating with time-limited or currently trendy restaurants to recommend to users
 
 ## Group Member Contacts
 Since not all members have a GitHub account, our group members' first names and contacts are here.
