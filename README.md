@@ -1,5 +1,5 @@
 # Cocoa (Our Team Name)
-This NYC food and in-theater movie guide was made in NYU's Project for Programming 2024 Spring class.
+This NYC food and in-theater movie guide was made in NYU's Project for Programming 2024 Spring class. Sample video link: https://drive.google.com/file/d/1pSCpyxaVH3Y7GPd2ZcPiXfe_rClH1o97/view?usp=sharing
 
 ## Project Description
 ### Our Goal
